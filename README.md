@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Buenas, soy Raúl! 🐧
+- Soy estudiante en 42 Madrid.
+- En este, mi git, subire mis proyectos y avances en la programación.
+- ¿Alguna vez has visto un pingüino?
 
-<!--
-**ravazque/ravazque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Proyectos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ‎ ‎ ‎ ‎ Proyecto | ‎Nota‎  | Extra |
+| ------------ | ------------ | ------------ |
+| ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Libft  | ‎ 125 | ‎ ‎ ‎ :fa-star: |
+| ‎ get_next_line |   | ‎ ‎ ‎ ‎:fa-star-o: |
+| ‎ ‎ ‎ ‎ ‎ ‎ft_printf | ‎ | ‎ ‎ ‎ ‎:fa-star-o: |
+| ‎ ‎ Born2beroot |  | ‎ ‎ ‎ ‎:fa-star-o: |
