@@ -1,13 +1,13 @@
-# ¡Buenas, soy Raúl! 🐧
-- Soy estudiante en 42 Madrid.
-- En este, mi git, subire mis proyectos y avances en la programación.
-- ¿Alguna vez has visto un pingüino?
+# Hey there, I'm Raul! 🐧
+- I'm a student at 42 Madrid.
+- In this, my git, I will upload my projects and programming progress.
+- Have you ever seen a penguin?
 
-# Proyectos
+# Projects
 
-|  **Proyectos** | ‎**Nota**‎  | ***Extra*** |
+|  ‎ ‎**Projects** | ‎ **Note** ‎ | ***Extra*** |
 | ------------ | ------------ | ------------ |
-| ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Libft  | ‎ 125 | ‎ ‎ ‎ ‎★ |
-| ‎ get_next_line |   | ‎ ‎ ‎‎ ‎☆ |
-| ‎ ‎ ‎ ‎ ‎ ‎ft_printf | ‎ | ‎ ‎ ‎‎ ‎☆ |
-| ‎ ‎ Born2beroot |  |  ‎ ‎‎‎ ‎ ‎☆ |
+| ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Libft |‎ ‎  125 | ‎ ‎ ‎ ‎★ |
+| get_next_line |   | ‎ ‎ ‎ ‎☆ |
+| ‎ ‎ ‎ ‎ ‎ ‎ft_printf |   | ‎ ‎ ‎ ‎☆ |
+| ‎ ‎Born2beroot |   | ‎ ‎ ‎ ‎☆ |
