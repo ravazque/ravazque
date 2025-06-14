@@ -85,6 +85,9 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 - **Email:** rk.raul1306@gmail.com
 - **GitHub:** [github.com/ravazque](https://github.com/ravazque)
 
+
+<!--
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+--->
