@@ -36,7 +36,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 <br> 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,git,bash,arch,vim,vscode"/>
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp" title="most" alt="most" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>
