@@ -59,7 +59,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
   - 🔗 - Milestone 1️⃣  | [ft_printf](https://github.com/ravazque/ft_printf) - Custom implementation of `printf`.
 
-  - 🔗 - Milestone 2️⃣  | [push_swap](https://github.com/ravazque/push_swap) – Sorting algorithm visualizer & optimizer.
+  - 🔗 - Milestone 2️⃣  | [push_swap](https://github.com/ravazque/push_swap) – Sorting algorithm.
 
   - 🔗 - Milestone 2️⃣  | [fract-ol](https://github.com/ravazque/fract-ol) – Simple fractal explorer with the use of a graphic library.
 
