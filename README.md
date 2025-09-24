@@ -74,7 +74,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 <details>
   <summary>🚀 Other Repos</summary>
 
-  - [ravazque](https://github.com/ravazque/ravazque) – This very README!
+  - [ravazque](https://github.com/ravazque/ravazque) – This is my README!
 
   - *More personal and full-stack projects… coming soon!* 😉
 
