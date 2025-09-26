@@ -18,12 +18,7 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=Hey+there%2C+I%27m+Raul!+%F0%9F%90%A7&repeat=false"
-      alt="Typing SVG"
-    />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4500&pause=2500&color=57FFF3&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Hi+there%2C+I'm+Ra%C3%BAl!+%F0%9F%90%A7" alt="Typing SVG" /></a>
 </p>
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30"><b>  About Me</b>
