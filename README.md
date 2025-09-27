@@ -1,22 +1,4 @@
 
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravazque&color=blue" alt="Visitor Count" />
-  <img src="https://img.shields.io/badge/Student-42%20Madrid-brightgreen" alt="42 Madrid" />
-  <img src="https://img.shields.io/badge/Email-rk.raul1306%40gmail.com-blue" alt="Email" />
-</p>
-## 🚀 About Me
--->
-
-<!--
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravazque&show_icons=true&theme=dark&include_all_commits=true" alt="Raúl’s GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravazque&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
--->
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4500&pause=2500&color=57FFF3&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Hi+there%2C+I'm+Ra%C3%BAl!+%F0%9F%90%A7" alt="Typing SVG" /></a>
 </p>
@@ -71,7 +53,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
   - [ravazque](https://github.com/ravazque/ravazque) – This is my README!
 
-  - *More personal and full-stack projects… coming soon!* 😉
+  - *More personal and full-stack projects… coming soon!*
 
 </details>
 
@@ -82,9 +64,3 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 - **Email:** ravazquezperez@gmail.com
 - **GitHub:** [github.com/ravazque](https://github.com/ravazque)
 
-
-<!--
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
---->
