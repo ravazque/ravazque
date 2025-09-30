@@ -1,6 +1,6 @@
 
 <p align="center">
-   <a href="">
+   <a href=""><img src="https://readme-typing-svg.demolab.com?
     font=Fira+Code&size=35&duration=4500&pause=2500&color=57FFF3&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Hi+there%2C+I'm+Ra%C3%BAl!+%F0%9F%90%A7" alt="Typing SVG" />
   </a>
 </p>
