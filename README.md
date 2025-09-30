@@ -44,7 +44,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
   - 🔗 - Milestone 3️⃣  | [philosophers](https://github.com/ravazque/philosophers) – Use and operation of threads in C.
 
-  - 🔗 - Milestone 3️⃣  | [minishell](https://github.com/ravazque/minishell) – A "simpler" version of a shell ✦.
+  - 🔗 - Milestone 3️⃣  | [minishell](https://github.com/ravazque/minishell) – A "simpler" version of a shell. **✦**
 
 </details>
 
