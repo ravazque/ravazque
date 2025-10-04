@@ -51,6 +51,8 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 <details>
   <summary>🚀 Other Repos</summary>
 
+  - [NASA Space APPs Challenge](https://github.com/ravazque/NASA-Space-APPs-Challenge) - My group's project at a NASA hackathon.
+  
   - [ravazque](https://github.com/ravazque/ravazque) – This is my README!
 
   - *More personal and full-stack projects… coming soon!*
