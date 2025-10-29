@@ -46,6 +46,10 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
   - 🔗 - Milestone 3️⃣  | [minishell](https://github.com/ravazque/minishell) – A "simpler" version of a shell. **✦**
 
+  - 🔗 - Milestone 4️⃣  | [cub3D](https://github.com/ravazque/cub3D) – .
+
+  - 🔗 - Milestone 4️⃣  | [cpp modules](https://github.com/ravazque/42-CPPs) – .
+
 </details>
 
 <details>
