@@ -28,7 +28,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects </b>
 
 <details>
-  <summary>🎓 Featured 42 Madrid Projects</summary>
+  <summary>🎓 42 Madrid Projects</summary>
 
   - 🔗 - Milestone 0️⃣  | [libft](https://github.com/ravazque/libft) – My own C library of useful functions.
 
