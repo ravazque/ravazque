@@ -30,7 +30,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 <details>
   <summary>🎓 42 Madrid Projects</summary>
 
-  - 🔗 - Milestone 0️⃣  | [libft](https://github.com/ravazque/libft) – My own C library of useful functions.
+  - 🔗 - Milestone 0️⃣  | [libft](https://github.com/ravazque/libft) – My own C library of useful functions for 42 projects.
 
   - 🔗 - Milestone 1️⃣  | [get_next_line](https://github.com/ravazque/get_next_line) – Read lines from file descriptors using static variables.
 
@@ -55,8 +55,10 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 <details>
   <summary>🚀 Other Repos</summary>
 
-  - [NASA Space APPs Challenge](https://github.com/ravazque/NASA-Space-APPs-Challenge) - My group's project at a NASA hackathon.
-  
+  - [Vectors library in C](https://github.com/ravazque/vectors) - My own library for implementing vectors in C.
+
+  - [NASA Space APPs Challenge](https://github.com/ravazque/NASA-Space-APPs-Challenge) - My group's project at a NASA hackathon about LEO.
+
   - [ravazque](https://github.com/ravazque/ravazque) – This is my README!
 
   - *More personal and full-stack projects… coming soon!*
