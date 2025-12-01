@@ -56,6 +56,8 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 <details>
   <summary>🚀 Other Repos</summary>
 
+  - [SolarSoft mini-games](https://github.com/ravazque/SolarSoft) - Godot test & mini-games with SolarSoft
+
   - [Vectors library in C](https://github.com/ravazque/vectors) - My own library for implementing vectors in C.
 
   - [NASA Space APPs Challenge](https://github.com/ravazque/NASA-Space-APPs-Challenge) - My group's project at a NASA hackathon about LEO.
