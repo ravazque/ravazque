@@ -31,25 +31,31 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 <details>
   <summary>🎓 42 Madrid Projects</summary>
 
-  - 🔗 - Milestone 0️⃣  | [libft](https://github.com/ravazque/libft) – My own C library of useful functions for 42 projects.
+  - 🔗 - Milestone  **𝟘**  | [libft](https://github.com/ravazque/libft) – My own C library of useful functions for 42 projects.
 
-  - 🔗 - Milestone 1️⃣  | [get_next_line](https://github.com/ravazque/get_next_line) – Read lines from file descriptors using static variables.
+  - 🔗 - Milestone  **𝟙**  | [get_next_line](https://github.com/ravazque/get_next_line) – Read lines from file descriptors using static variables.
 
-  - 🔗 - Milestone 1️⃣  | [ft_printf](https://github.com/ravazque/ft_printf) - Custom implementation of `printf`.
+  - 🔗 - Milestone  **𝟙**  | [ft_printf](https://github.com/ravazque/ft_printf) - Custom implementation of `printf`.
 
-  - 🔗 - Milestone 2️⃣  | [push_swap](https://github.com/ravazque/push_swap) – Sorting algorithm.
+  - 🔗 - Milestone  **𝟚**  | [push_swap](https://github.com/ravazque/push_swap) – Sorting algorithm.
 
-  - 🔗 - Milestone 2️⃣  | [fract-ol](https://github.com/ravazque/fract-ol) – Simple fractal explorer with the use of a graphic library.
+  - 🔗 - Milestone  **𝟚**  | [fract-ol](https://github.com/ravazque/fract-ol) – Simple fractal explorer with the use of a graphic library.
 
-  - 🔗 - Milestone 2️⃣  | [pipex](https://github.com/ravazque/pipex) – Learning pipes, forks and redirections.
+  - 🔗 - Milestone  **𝟚**  | [pipex](https://github.com/ravazque/pipex) – Learning pipes, forks and redirections.
 
-  - 🔗 - Milestone 3️⃣  | [philosophers](https://github.com/ravazque/philosophers) – Use and operation of threads in C.
+  - 🔗 - Milestone  **𝟛**  | [philosophers](https://github.com/ravazque/philosophers) – Use and operation of threads in C.
 
-  - 🔗 - Milestone 3️⃣  | [minishell](https://github.com/ravazque/minishell) – A "simpler" version of a shell. **✦**
+  - 🔗 - Milestone  **𝟛**  | [minishell](https://github.com/ravazque/minishell) – A "simpler" version of a shell. **✦**
 
-  - 🔗 - Milestone 4️⃣  | [miniRT](https://github.com/ravazque/miniRT) – Generator of rays that strike surfaces, causing reflections and shadows. **✦**
+  - 🔗 - Milestone  **𝟜**  | [miniRT](https://github.com/ravazque/miniRT) – Generator of rays that strike surfaces, causing reflections and shadows. **✦**
 
-  - 🔗 - Milestone 4️⃣  | [cpp modules](https://github.com/ravazque/42-CPPs) – Programming exercises in C++.
+  - 🔗 - Milestone  **𝟜**  | [C++ 00/04](https://github.com/ravazque/42-CPPs) – Programming exercises in C++ from Module00 to Module04.
+
+  - 🔗 - Milestone  **𝟝**  | [C++ 05/09](https://github.com/ravazque/42-CPPs) – Programming exercises in C++ from Module05 to Module09.
+
+  - 🔗 - Milestone  **𝟝**  | [ft_irc](https://github.com/ravazque/ft_irc) – X.
+
+  - 🔗 - Milestone  **𝟞**  | [ft_transcendence](https://github.com/ravazque/ft_transcendence) – X.
 
 </details>
 
