@@ -5,7 +5,7 @@
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30"><b>  About Me</b>
 
-I am a 19 year old Software Development student at [42 Madrid](https://www.42madrid.com/) with a passion for bringing ideas to life through code. Before fully immersing myself in programming, I collaborated on video game development projects, which taught me the importance of creativity, teamwork and iterative problem solving. Since July 2024, I've been honing my skills in C and other languages, exploring low-level concepts, data structures, and algorithmic thinking.
+I am a 20 year old Software Development student at [42 Madrid](https://www.42madrid.com/) with a passion for bringing ideas to life through code. Before fully immersing myself in programming, I collaborated on video game development projects, which taught me the importance of creativity, teamwork and iterative problem solving. Since July 2024, I've been honing my skills in C and other languages, exploring low-level concepts, data structures, and algorithmic thinking.
 
 On my GitHub, you'll find a mix of game development prototypes, C-based projects, and experimental side projects as I continue to learn and grow. I'm always willing to collaborate, share knowledge and take on new challenges.
 
@@ -29,7 +29,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects </b>
 
 <details>
-  <summary>🎓 42 Madrid CommonCore Projects</summary>
+  <summary>🎓 42 Madrid - CommonCore Projects</summary>
 
   - 🔗 - Milestone  **𝟘**  | [libft](https://github.com/ravazque/libft) – My own C library of useful functions for 42 projects.
 
