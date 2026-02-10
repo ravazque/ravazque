@@ -29,7 +29,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects </b>
 
 <details>
-  <summary>🎓 42 Madrid Projects</summary>
+  <summary>🎓 42 Madrid CommonCore Projects</summary>
 
   - 🔗 - Milestone  **𝟘**  | [libft](https://github.com/ravazque/libft) – My own C library of useful functions for 42 projects.
 
@@ -53,14 +53,14 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
   - 🔗 - Milestone  **𝟝**  | [C++ 05/09](https://github.com/ravazque/42-CPPs) – Programming exercises in C++ from Module05 to Module09.
 
-  - 🔗 - Milestone  **𝟝**  | [ft_irc](https://github.com/ravazque/ft_irc) – X.
+  - 🔗 - Milestone  **𝟝**  | [ft_irc](https://github.com/ravazque/ft_irc) – Implementation of an IRC server in C++ following RFC 1459 specifications.
 
-  - 🔗 - Milestone  **𝟞**  | [ft_transcendence](https://github.com/ravazque/ft_transcendence) – X.
+  - 🔗 - Milestone  **𝟞**  | [ft_transcendence](https://github.com/ravazque/ft_transcendence) – Full-stack web app.
 
 </details>
 
 <details>
-  <summary>🚀 Other Repos</summary>
+  <summary>🚀 Other Repositories</summary>
 
 <!--  - [SolarSoft mini-games](https://github.com/ravazque/SolarSoft) - Godot test & mini-games with SolarSoft. -->
 
