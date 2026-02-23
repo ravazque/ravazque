@@ -53,7 +53,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
   - 🔗 - Milestone  **𝟝**  | [C++ 05/09](https://github.com/ravazque/42-CPPs) – Programming exercises in C++ from Module05 to Module09.
 
-  - 🔗 - Milestone  **𝟝**  | [inception](https://github.com/ravazque/inception) – Containerized NGINX, WordPress and MariaDB stack built from bare Debian images.
+  - 🔗 - Milestone  **𝟝**  | [inception](https://github.com/ravazque/inception) – NGINX, WordPress and MariaDB stack containerized.
 
   - 🔗 - Milestone  **𝟝**  | [ft_irc](https://github.com/ravazque/ft_irc) – Implementation of an IRC server in C++ following RFC 1459 specifications.
 
