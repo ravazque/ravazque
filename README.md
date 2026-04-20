@@ -13,7 +13,11 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 <br> 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,linux,arch,unity,godot,js,postgres,docker,git,bash,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,linux,arch,unity,godot,js,postgres" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=docker,git,bash,vim,vscode" />
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects </b>
@@ -67,7 +71,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 </details>
 
 
-## <b>📬 Contact Me</b>
+## &nbsp;📬  Contact Me
 
 - **LinkedIn:** [Raúl Vázquez Pérez](https://www.linkedin.com/in/ra%C3%BAl-v%C3%A1zquez-p%C3%A9rez-1a9b89382/)
 - **Email:** ravazquezperez@gmail.com
