@@ -67,7 +67,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 </details>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="27" height="27" /><b> Contact Me</b>
+## <b>📬 Contact Me</b>
 
 - **LinkedIn:** [Raúl Vázquez Pérez](https://www.linkedin.com/in/ra%C3%BAl-v%C3%A1zquez-p%C3%A9rez-1a9b89382/)
 - **Email:** ravazquezperez@gmail.com
