@@ -13,17 +13,17 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 <br> 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,linux,arch,unity,godot,js,postgres" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,postgres,linux,arch,unity,godot" />
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,git,bash,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,bash,vim,vscode" />
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects </b>
 
 <details>
-  <summary>🎓 42 Madrid - CommonCore Projects</summary>
+  <summary> 🎓 42 Cursus - CommonCore</summary>
 
   - 🔗 - Milestone  **𝟘**  | [libft](https://github.com/ravazque/libft) – My own C library of useful functions for 42 projects.
 
@@ -56,9 +56,13 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 </details>
 
 <details>
-  <summary>🚀 Other Repositories</summary>
+  <summary> 📚 42 School - OuterCore Projects</summary>
+</details>
 
-  - [SolarSoft Mini-Games](https://github.com/ravazque/SolarSoft-Minigames) - Godot tests & Mini-Games with SolarSoft.
+<details>
+  <summary> 🚀 Personal Development</summary>
+
+  - [SolarSoft Mini-Games](https://github.com/ravazque/SolarSoft-MiniGames) - Godot tests & Mini-Games with SolarSoft.
 
   - [Vectors library in C](https://github.com/ravazque/vectors) - My own library for implementing vectors in C.
 
