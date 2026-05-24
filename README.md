@@ -57,6 +57,13 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
 <details>
   <summary> 📚 42 School - OuterCore Projects</summary>
+
+  - [Leaffliction](https://github.com/ravazque/Leaffliction) – Deep-learning pipeline for plant disease classification on leaf images with data augmentation.
+
+  - [Inception of Things](https://github.com/ravazque/Inception-of-Things) – Kubernetes lab from scratch with Vagrant, K3s, K3d and Argo CD.
+
+  - [Learn2Slither](https://github.com/ravazque/Learn2Slither) – Reinforcement learning agent that learns to play Snake using tabular Q-learning.
+
 </details>
 
 <details>
