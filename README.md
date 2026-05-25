@@ -12,13 +12,11 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages & Tools</b>
 <br> 
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,postgres,linux,arch,unity,godot" />
-</p>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,bash,vim,vscode" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ravazque/ravazque/main/spacer.png" width="0.1" height="8" /><img src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cmake" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bash" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nuxtjs" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=electron" />
+<br />
+  <img src="https://skillicons.dev/icons?i=postgres" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=prisma" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vim" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode" />
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects </b>
 
