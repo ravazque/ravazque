@@ -78,7 +78,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
   - [Music Room](https://github.com/ravazque/music-room) – Collaborative mobile app for shared music experiences and playlist management.
 
-  - [lem-in](https://github.com/ravazque/lem_in) – Ant pathfinding system solving efficient flow through a graph of tunnels.
+  - [lem_in](https://github.com/ravazque/lem_in) – Ant pathfinding system solving efficient flow through a graph of tunnels.
 
   - [Gomoku](https://github.com/ravazque/gomoku) – AI agent that plays Gomoku using minimax with alpha-beta pruning.
 
