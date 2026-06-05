@@ -29,7 +29,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
   - 🔗 - Milestone  **𝟙**  | [ft_printf](https://github.com/ravazque/ft_printf) - Custom implementation of `printf`.
 
-  - 🔗 - Milestone  **𝟚**  | [push_swap](https://github.com/ravazque/push_swap) – Sorting algorithm.
+  - 🔗 - Milestone  **𝟚**  | [push_swap](https://github.com/ravazque/push_swap) –  Sorting algorithm using linked lists.
 
   - 🔗 - Milestone  **𝟚**  | [fract-ol](https://github.com/ravazque/fract-ol) – Simple fractal explorer with the use of a graphic library.
 
@@ -78,7 +78,7 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
   - [Music Room](https://github.com/ravazque/music-room) – Collaborative mobile app for shared music experiences and playlist management.
 
-  - [lem_in](https://github.com/ravazque/lem_in) – Ant pathfinding system solving efficient flow through a graph of tunnels.
+  - [lem-in](https://github.com/ravazque/lem-in) – Ant pathfinding system solving efficient flow through a graph of tunnels.
 
   - [Gomoku](https://github.com/ravazque/gomoku) – AI agent that plays Gomoku using minimax with alpha-beta pruning.
 
