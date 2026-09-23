@@ -5,9 +5,9 @@
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30"><b>  About Me</b>
 
-I am a 20 year old Software Development student at [42 Madrid](https://www.42madrid.com/) with a passion for bringing ideas to life through code. Before fully immersing myself in programming, I collaborated on video game development projects, which taught me the importance of creativity, teamwork and iterative problem solving. Since July 2024, I've been honing my skills in C and other languages, exploring low-level concepts, data structures, and algorithmic thinking.
+I am a 20-year-old Software Development student at [42 Madrid](https://www.42madrid.com/), specializing in Data Engineering and passionate about bringing ideas to life through code. Before fully immersing myself in programming, I collaborated on video game development projects, which taught me the importance of creativity, teamwork, and iterative problem-solving. Since July 2024, I've been honing my skills in C/C++, Python, and other languages, exploring low-level concepts, data structures, and algorithmic thinking.
 
-On my GitHub, you'll find a mix of game development prototypes, C-based projects, and experimental side projects as I continue to learn and grow. I'm always willing to collaborate, share knowledge and take on new challenges.
+On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, data projects, and experimental side projects as I continue to learn and grow. I'm always willing to collaborate, share knowledge, and take on new challenges.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages & Tools</b>
 <br> 
@@ -58,41 +58,44 @@ On my GitHub, you'll find a mix of game development prototypes, C-based projects
 
   - [libasm](https://github.com/ravazque/libasm) – x86-64 assembly re-implementation of standard C library functions.
 
-  - [Ftl_quantum](https://github.com/ravazque/ftl_quantum) – Quantum programming: superposition, entanglement, and quantum algorithms.
-  
-  - [ft_newton](https://github.com/ravazque/ft_newton) – Basic physics engine simulating rigid body interactions with Newton's laws.
-
   - [Dr. Quine](https://github.com/ravazque/dr-quine) – Programs that print their own source code, exploring Kleene's recursion theorem.
+  
+  - [Inception of Things](https://github.com/ravazque/Inception-of-Things) – Kubernetes lab from scratch with Vagrant, K3s, K3d and Argo CD.
 
   - [ft_linear_regression](https://github.com/ravazque/ft_linear_regression) – Linear regression model built from scratch to predict car prices.
 
   - [dslr](https://github.com/ravazque/dslr) – Logistic regression classifier built from scratch applied to a Hogwarts-themed dataset.
 
+  - [lem-in](https://github.com/ravazque/lem-in) – Ant pathfinding system solving efficient flow through a graph of tunnels.
+
   - [Learn2Slither](https://github.com/ravazque/Learn2Slither) – Reinforcement learning agent that learns to play Snake using tabular Q-learning.
 
   - [Leaffliction](https://github.com/ravazque/Leaffliction) – Deep-learning pipeline for plant disease classification on leaf images.
 
-  - [Inception of Things](https://github.com/ravazque/Inception-of-Things) – Kubernetes lab from scratch with Vagrant, K3s, K3d and Argo CD.
+  - [Gomoku](https://github.com/ravazque/gomoku) – AI agent that plays Gomoku using minimax with alpha-beta pruning.
+
+  - [ft_newton](https://github.com/ravazque/ft_newton) – Basic physics engine simulating rigid body interactions with Newton's laws.
 
   - [Red Tetris](https://github.com/ravazque/red-tetris) – Multiplayer networked Tetris in a full-stack JavaScript stack.
 
   - [Music Room](https://github.com/ravazque/music-room) – Collaborative mobile app for shared music experiences and playlist management.
 
-  - [lem-in](https://github.com/ravazque/lem-in) – Ant pathfinding system solving efficient flow through a graph of tunnels.
+  - [Ftl_quantum](https://github.com/ravazque/ftl_quantum) – Quantum programming: superposition, entanglement, and quantum algorithms.
 
-  - [Gomoku](https://github.com/ravazque/gomoku) – AI agent that plays Gomoku using minimax with alpha-beta pruning.
+  - [ft_hangouts](https://github.com/ravazque/ft_hangouts) – Android contact manager app for creating contacts and sending SMS.
 
+  - [Swifty Companion](https://github.com/ravazque/swifty-companion) – Mobile app displaying 42 students' profiles via OAuth2 and the 42 API.
 
 </details>
 
 <details>
   <summary> 🌱 Personal Projects</summary>
 
-  - [SolarSoft Mini-Games](https://github.com/ravazque/SolarSoft-MiniGames) - Godot tests & Mini-Games with SolarSoft.
+  - [SolarSoft Mini-Games](https://github.com/ravazque/SolarSoft-MiniGames) – Godot tests & Mini-Games with SolarSoft.
 
-  - [Vectors library in C](https://github.com/ravazque/vectors) - My own library for implementing vectors in C.
+  - [Vectors library in C](https://github.com/ravazque/vectors) – My own library for implementing vectors in C.
 
-  - [NASA Space APPs Challenge](https://github.com/ravazque/NASA-Space-APPs-Challenge) - My group's project at a NASA hackathon about LEO.
+  - [NASA Space APPs Challenge](https://github.com/ravazque/NASA-Space-APPs-Challenge) – My group's project at a NASA hackathon about LEO.
 
   - [ravazque](https://github.com/ravazque/ravazque) – This is my README!
 
