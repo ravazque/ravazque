@@ -60,17 +60,17 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 
   - [Dr. Quine](https://github.com/ravazque/dr-quine) – Programs that print their own source code, exploring Kleene's recursion theorem.
   
-  - [Inception of Things](https://github.com/ravazque/Inception-of-Things) – Kubernetes lab from scratch with Vagrant, K3s, K3d and Argo CD.
+  - [Inception of Things](https://github.com/ravazque/Inception-of-Things_ravazque) – Kubernetes lab from scratch with Vagrant, K3s, K3d and Argo CD.
 
   - [ft_linear_regression](https://github.com/ravazque/ft_linear_regression) – Linear regression model built from scratch to predict car prices.
 
   - [dslr](https://github.com/ravazque/dslr) – Logistic regression classifier built from scratch applied to a Hogwarts-themed dataset.
 
-  - [lem-in](https://github.com/ravazque/lem-in) – Ant pathfinding system solving efficient flow through a graph of tunnels.
+  - [Leaffliction](https://github.com/ravazque/Leaffliction) – Deep-learning pipeline for plant disease classification on leaf images.
 
   - [Learn2Slither](https://github.com/ravazque/Learn2Slither) – Reinforcement learning agent that learns to play Snake using tabular Q-learning.
 
-  - [Leaffliction](https://github.com/ravazque/Leaffliction) – Deep-learning pipeline for plant disease classification on leaf images.
+  - [lem-in](https://github.com/ravazque/lem-in) – Ant pathfinding system solving efficient flow through a graph of tunnels.
 
   - [Gomoku](https://github.com/ravazque/gomoku) – AI agent that plays Gomoku using minimax with alpha-beta pruning.
 
@@ -79,8 +79,6 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
   - [Red Tetris](https://github.com/ravazque/red-tetris) – Multiplayer networked Tetris in a full-stack JavaScript stack.
 
   - [Music Room](https://github.com/ravazque/music-room) – Collaborative mobile app for shared music experiences and playlist management.
-
-  - [Ftl_quantum](https://github.com/ravazque/ftl_quantum) – Quantum programming: superposition, entanglement, and quantum algorithms.
 
   - [ft_hangouts](https://github.com/ravazque/ft_hangouts) – Android contact manager app for creating contacts and sending SMS.
 
