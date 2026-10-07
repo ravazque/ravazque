@@ -70,11 +70,13 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 
   - [Learn2Slither](https://github.com/ravazque/Learn2Slither) – Reinforcement learning agent that learns to play Snake using tabular Q-learning.
 
-  - [lem-in](https://github.com/ravazque/lem-in) – Ant pathfinding system solving efficient flow through a graph of tunnels.
+  - [lem-in](https://github.com/ravazque/lem-in) – From-scratch OpenGL viewer in C that renders .obj models with texture mapping.
 
   - [Gomoku](https://github.com/ravazque/gomoku) – AI agent that plays Gomoku using minimax with alpha-beta pruning.
 
   - [ft_newton](https://github.com/ravazque/ft_newton) – Basic physics engine simulating rigid body interactions with Newton's laws.
+
+  - [scop](https://github.com/ravazque/scop) – Basic physics engine simulating rigid body interactions with Newton's laws.
 
   - [Red Tetris](https://github.com/ravazque/red-tetris) – Multiplayer networked Tetris in a full-stack JavaScript stack.
 
@@ -93,7 +95,7 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 
   - [Vectors library in C](https://github.com/ravazque/vectors) – My own library for implementing vectors in C.
 
-  - [NASA Space APPs Challenge](https://github.com/ravazque/NASA-Space-APPs-Challenge_2025) – My group's project at a NASA hackathon about LEO.
+  - [NASA Space APPs Challenge](https://github.com/ravazque/NASA-Space-APPs-Challenge_2025) – My group's project at a NASA hackathon about LEO. (2025)
 
   - [ravazque](https://github.com/ravazque/ravazque) – This is my README!
 
