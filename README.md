@@ -56,9 +56,9 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 <details>
   <summary> 📚 42 School - OuterCore Projects</summary>
 
-  - [libasm](https://github.com/ravazque/libasm) – x86-64 assembly re-implementation of standard C library functions.
+  <!-- - [libasm](https://github.com/ravazque/libasm) – x86-64 assembly re-implementation of standard C library functions. -->
 
-  - [Dr. Quine](https://github.com/ravazque/dr-quine) – Programs that print their own source code, exploring Kleene's recursion theorem.
+  <!-- - [Dr. Quine](https://github.com/ravazque/dr-quine) – Programs that print their own source code, exploring Kleene's recursion theorem. -->
   
   - [Inception of Things](https://github.com/ravazque/Inception-of-Things_ravazque) – Kubernetes lab from scratch with Vagrant, K3s, K3d and Argo CD.
 
@@ -70,19 +70,17 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 
   - [Learn2Slither](https://github.com/ravazque/Learn2Slither) – Reinforcement learning agent that learns to play Snake using tabular Q-learning.
 
-  - [lem-in](https://github.com/ravazque/lem-in) – From-scratch OpenGL viewer in C that renders .obj models with texture mapping.
+  - [lem-in](https://github.com/ravazque/lem-in) – Ant colony pathfinding algorithm optimizing the movement of ants through a graph.
 
   - [Gomoku](https://github.com/ravazque/gomoku) – AI agent that plays Gomoku using minimax with alpha-beta pruning.
 
   - [ft_newton](https://github.com/ravazque/ft_newton) – Basic physics engine simulating rigid body interactions with Newton's laws.
 
-  - [scop](https://github.com/ravazque/scop) – Basic physics engine simulating rigid body interactions with Newton's laws.
+  - [scop](https://github.com/ravazque/scop) – From-scratch OpenGL viewer in C that renders .obj models with texture mapping.
 
   - [Red Tetris](https://github.com/ravazque/red-tetris) – Multiplayer networked Tetris in a full-stack JavaScript stack.
 
   - [Music Room](https://github.com/ravazque/music-room) – Collaborative mobile app for shared music experiences and playlist management.
-
-  - [ft_hangouts](https://github.com/ravazque/ft_hangouts) – Android contact manager app for creating contacts and sending SMS.
 
   - [Swifty Companion](https://github.com/ravazque/swifty-companion) – Mobile app displaying 42 students' profiles via OAuth2 and the 42 API.
 
@@ -97,6 +95,8 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 
   - [NASA Space APPs Challenge](https://github.com/ravazque/NASA-Space-APPs-Challenge_2025) – My group's project at a NASA hackathon about LEO. (2025)
 
+  - [ravazque.io](https://github.com/ravazque/ravazque.github.io) / [ravazque.top](https://github.com/ravazque/ravazque.github.io) – My open-source personal website for 42 learning log and portfolio.
+
   - [ravazque](https://github.com/ravazque/ravazque) – This is my README!
 
   - *More personal and full-stack projects… coming soon!*
@@ -108,5 +108,6 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 
 - **LinkedIn:** [Raúl Vázquez Pérez](https://www.linkedin.com/in/ra%C3%BAl-v%C3%A1zquez-p%C3%A9rez-1a9b89382/)
 - **Email:** ravazquezperez@gmail.com
+- **About Me:** [ravazque](https://ravazque.github.io/)
 - **GitHub:** [github.com/ravazque](https://github.com/ravazque)
 
