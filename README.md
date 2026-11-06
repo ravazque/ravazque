@@ -54,7 +54,7 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 </details>
 
 <details>
-  <summary> 📚 42 School - OuterCore Projects</summary>
+  <summary> 📑 42 School - OuterCore Projects</summary>
 
   <!-- - [libasm](https://github.com/ravazque/libasm) – x86-64 assembly re-implementation of standard C library functions. -->
 
