@@ -95,7 +95,7 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 
   - [Vectors library in C](https://github.com/ravazque/vectors) – My own library for implementing vectors in C.
 
-  - [ravazque.io](https://github.com/ravazque/ravazque.github.io) / [ravazque.top](https://github.com/ravazque/ravazque.github.io) – My open-source personal website for 42 learning log and portfolio.
+  - [ravazque.io](https://github.com/ravazque/ravazque.github.io) / [ravazque.info](https://github.com/ravazque/ravazque.github.io) – My open-source personal website for 42 learning log and portfolios.
 
   - [NASA Space APPs 2025](https://github.com/ravazque/NASA-Space-APPs-Challenge_2025) – My group's project at a NASA hackathon about LEO.
 
