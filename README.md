@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4500&pause=2500&color=57FFF3&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Hi+there%2C+I'm+Ra%C3%BAl!+%F0%9F%90%A7" alt="Typing SVG" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4500&pause=2500&color=57FFF3&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Hi+there%2C+I'm+Ra%C3%BAl!+%F0%9F%90%A7" alt="Typing SVG" /></a>
 </p>
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30"><b>  About Me</b>
@@ -95,7 +95,9 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 
   - [Vectors library in C](https://github.com/ravazque/vectors) – My own library for implementing vectors in C.
 
-  - [ravazque.info](https://github.com/ravazque/ravazque.info) – My open-source personal website for 42 learning log and portfolios.
+  - [ravazque.info](https://github.com/ravazque/ravazque.info) – Open-source web app where 42 Madrid students can explore their own history.
+  
+  - [ravazque.github.io](https://github.com/ravazque/ravazque.github.io) – My CV as a web page, plus my 42 progress published from ravazque.info.
 
   - [NASA Space APPs 2025](https://github.com/ravazque/NASA-Space-APPs-Challenge_2025) – My group's project at a NASA hackathon about LEO.
 
