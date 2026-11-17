@@ -95,7 +95,7 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 
   - [Vectors library in C](https://github.com/ravazque/vectors) – My own library for implementing vectors in C.
 
-  - [ravazque.io](https://github.com/ravazque/ravazque.github.io) / [ravazque.info](https://github.com/ravazque/ravazque.github.io) – My open-source personal website for 42 learning log and portfolios.
+  - [ravazque.info](https://github.com/ravazque/ravazque.info) – My open-source personal website for 42 learning log and portfolios.
 
   - [NASA Space APPs 2025](https://github.com/ravazque/NASA-Space-APPs-Challenge_2025) – My group's project at a NASA hackathon about LEO.
 
@@ -112,6 +112,5 @@ On my GitHub, you'll find a mix of game development prototypes, C/C++ projects, 
 
 - **LinkedIn:** [Raúl Vázquez Pérez](https://www.linkedin.com/in/ra%C3%BAl-v%C3%A1zquez-p%C3%A9rez-1a9b89382/)
 - **Email:** ravazquezperez@gmail.com
-- **Website:** [ravazque.io](https://ravazque.github.io/)
 - **GitHub:** [github.com/ravazque](https://github.com/ravazque)
 
