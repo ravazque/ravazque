@@ -21,7 +21,7 @@ Here you'll find my 42 projects, data and ML experiments, game development proto
 ## <img src="assets/projects_p103_slow.gif" width="25">&nbsp;<b> Projects </b>
 
 <details>
-  <summary> 🎓 42 Cursus - Common Core</summary>
+  <summary> 🎓 42 Cursus - CommonCore</summary>
 
   - 🔗 - Milestone **𝟘** | [libft](https://github.com/ravazque/libft) - My own C library of useful functions, reused across 42 projects.
 
@@ -54,7 +54,7 @@ Here you'll find my 42 projects, data and ML experiments, game development proto
 </details>
 
 <details>
-  <summary> 📚 42 Cursus - Outer Core</summary>
+  <summary> 📚 42 School - OuterCore Projects</summary>
 
   <!-- - [libasm](https://github.com/ravazque/libasm) - x86-64 assembly re-implementation of standard C library functions. -->
 
