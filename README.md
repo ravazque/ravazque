@@ -13,7 +13,9 @@ Here you'll find my 42 projects, data and ML experiments, game development proto
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="23">&nbsp;<b> Languages & Tools</b>
 
 <div align="center">
-  <img src="assets/skills.svg" width="386" alt="C, C++, Python, TypeScript, JavaScript, Bash, Kotlin, PyTorch, PostgreSQL, Prisma, NestJS, Nuxt, React, Electron, Docker, Kubernetes, GitHub Actions, Git, Linux, Godot" />
+  <img src="assets/skills-reflow/1a.svg" alt="C, C++, Python, TypeScript" /><img src="assets/skills-reflow/1b.svg" alt="JavaScript, Bash, Kotlin" /><img src="assets/skills-reflow/1c.svg" alt="PyTorch, PostgreSQL, Prisma, NestJS" />
+<br />
+  <img src="assets/skills-reflow/2a.svg" alt="Nuxt, React, Electron" /><img src="assets/skills-reflow/2b.svg" alt="Docker, Kubernetes, GitHub Actions, Postman" /><img src="assets/skills-reflow/2c.svg" alt="Git, Linux, Godot" />
 </div>
 
 ## <img src="assets/projects_p103_slow.gif" width="25">&nbsp;<b> Projects </b>
@@ -23,7 +25,7 @@ Here you'll find my 42 projects, data and ML experiments, game development proto
 
   - 🔗 - Milestone **𝟘** | [libft](https://github.com/ravazque/libft) - My own C library of useful functions, reused across 42 projects.
 
-  - 🔗 - Milestone **𝟙** | [get_next_line](https://github.com/ravazque/get_next_line) - Reads lines from file descriptors `fd` using static variables.
+  - 🔗 - Milestone **𝟙** | [get_next_line](https://github.com/ravazque/get_next_line) - Reads lines from file descriptors (fd) using static variables.
 
   - 🔗 - Milestone **𝟙** | [ft_printf](https://github.com/ravazque/ft_printf) - Custom implementation of `printf` with variadic arguments.
 
