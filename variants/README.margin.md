@@ -4,7 +4,7 @@
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="28">&nbsp;&nbsp;<b>About Me</b>
 
-I'm a software engineer specializing in Data Engineering who graduated from [42 Madrid Fundación Telefónica](https://www.42madrid.com/) and is now working toward the RNCP Level 7 (master's level) in database architecture and data. I started out collaborating on game development projects, where I learned creativity, teamwork and iterative problem-solving.
+I'm a software developer specializing in Data Engineering who graduated from [42 Madrid Fundación Telefónica](https://www.42madrid.com/) and is now working toward the RNCP Level 7 (master's level) in database architecture and data. I started out collaborating on game development projects, where I learned creativity, teamwork and iterative problem-solving.
 
 Since July 2024 I've been building mostly in C/C++ and Python, from low-level systems and algorithms to data pipelines and machine learning. Outside the cursus, I've co-built two freelance products in small teams, from a PostgreSQL-backed e-learning platform to a desktop app for a psychology practice, and I have professional experience in backend development.
 
