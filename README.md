@@ -4,7 +4,7 @@
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="28">&nbsp;&nbsp;<b>About Me</b>
 
-I'm a software developer specializing in Data Engineering who graduated from [42 Madrid Fundación Telefónica](https://www.42madrid.com/) and is now working toward the RNCP Level 7 (master's level) in database architecture and data. I started out collaborating on game development projects, where I learned creativity, teamwork and iterative problem-solving.
+I'm a software engineer specializing in Data Engineering who graduated from [42 Madrid Fundación Telefónica](https://www.42madrid.com/) and is now working toward the RNCP Level 7 (master's level) in database architecture and data. I started out collaborating on game development projects, where I learned creativity, teamwork and iterative problem-solving.
 
 Since July 2024 I've been building mostly in C/C++ and Python, from low-level systems and algorithms to data pipelines and machine learning. Outside the cursus, I've co-built two freelance products in small teams, from a PostgreSQL-backed e-learning platform to a desktop app for a psychology practice, and I have professional experience in backend development.
 
@@ -13,11 +13,7 @@ Here you'll find my 42 projects, data and ML experiments, game development proto
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="23">&nbsp;<b> Languages & Tools</b>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bash" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kotlin" />
-<br />
-  <img src="https://skillicons.dev/icons?i=postgres" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=prisma" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nestjs" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nuxtjs" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=electron" />
-<br />
-  <img src="https://skillicons.dev/icons?i=docker" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=githubactions" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postman" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=godot" />
+  <img src="assets/skills.svg" width="386" alt="C, C++, Python, TypeScript, JavaScript, Bash, Kotlin, PyTorch, PostgreSQL, Prisma, NestJS, Nuxt, React, Electron, Docker, Kubernetes, GitHub Actions, Git, Linux, Godot" />
 </div>
 
 ## <img src="assets/projects_p103_slow.gif" width="25">&nbsp;<b> Projects </b>
@@ -27,11 +23,11 @@ Here you'll find my 42 projects, data and ML experiments, game development proto
 
   - 🔗 - Milestone **𝟘** | [libft](https://github.com/ravazque/libft) - My own C library of useful functions, reused across 42 projects.
 
-  - 🔗 - Milestone **𝟙** | [get_next_line](https://github.com/ravazque/get_next_line) - Reads lines from file descriptors using static variables.
+  - 🔗 - Milestone **𝟙** | [get_next_line](https://github.com/ravazque/get_next_line) - Reads lines from file descriptors `fd` using static variables.
 
   - 🔗 - Milestone **𝟙** | [ft_printf](https://github.com/ravazque/ft_printf) - Custom implementation of `printf` with variadic arguments.
 
-  - 🔗 - Milestone **𝟚** | [push_swap](https://github.com/ravazque/push_swap) - Sorts integers with two stacks and a limited instruction set.
+  - 🔗 - Milestone **𝟚** | [push_swap](https://github.com/ravazque/push_swap) - Efficiently sorts integers with two stacks and a limited instruction set.
 
   - 🔗 - Milestone **𝟚** | [fract-ol](https://github.com/ravazque/fract-ol) - Interactive Mandelbrot and Julia explorer using MiniLibX.
 
@@ -39,9 +35,9 @@ Here you'll find my 42 projects, data and ML experiments, game development proto
 
   - 🔗 - Milestone **𝟛** | [philosophers](https://github.com/ravazque/philosophers) - Dining Philosophers simulation with threads and mutexes.
 
-  - 🔗 - Milestone **𝟛** | [minishell](https://github.com/ravazque/minishell) - A simplified bash: pipes, redirections, heredoc, "env" variables and built-ins. **✦**
+  - 🔗 - Milestone **𝟛** | [minishell](https://github.com/ravazque/minishell) - A simplified bash in C: pipes, redirections, env, heredoc and built-ins. **✦**
 
-  - 🔗 - Milestone **𝟜** | [miniRT](https://github.com/ravazque/miniRT) - Ray tracer in C with lights, shadows and reflections. **✦**
+  - 🔗 - Milestone **𝟜** | [miniRT](https://github.com/ravazque/miniRT) - Ray tracer in C with rays that strike surfaces, causing shadows and reflections. **✦**
 
   - 🔗 - Milestone **𝟜** | [C++ 00/04](https://github.com/ravazque/42-CPPs) - C++ exercises from Module 00 to Module 04.
 
@@ -101,7 +97,7 @@ Here you'll find my 42 projects, data and ML experiments, game development proto
 
   - [ravazque.github.io](https://github.com/ravazque/ravazque.github.io) - My CV as a web page, plus my 42 progress published from ravazque.info.
 
-  - [NASA Space Apps Challenge 2025](https://github.com/ravazque/NASA-Space-APPs-Challenge_2025) - Team hackathon project: LEO satellite network simulator with CGR .
+  - [NASA Space Apps Challenge 2025](https://github.com/ravazque/NASA-Space-APPs-Challenge_2025) - Team hackathon project: LEO satellite network simulator with CGR.
 
   - [NASA Space Apps Challenge 2026](https://github.com/ravazque/NASA-Space-APPs-Challenge_2026) - Team hackathon project: offline field network for Mars EVAs.
 
